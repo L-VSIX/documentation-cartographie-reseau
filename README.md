@@ -13,9 +13,9 @@ Maintenir une représentation visuelle fiable de l'ensemble de l'infrastructure 
 - **Hyperviseurs Proxmox** avec le détail des VM/LXC hébergés et leurs ressources allouées
 - **Légende par VLAN** (couleur dédiée par domaine : Sécurité, Utilisateur, VPN, Sauvegarde, Serveur, LAN)
 
-## Méthode
+## Topologie logique
 
-Le schéma a été construit et affiné au fil du projet, en particulier lors de la phase de déploiement des 6 VLAN (avril 2026), pour refléter la migration progressive des services vers leur VLAN cible plutôt qu'un état figé du jour 1.
+<img width="1401" height="1175" alt="Homelab-topologie" src="https://github.com/user-attachments/assets/b265a3f6-b470-4f81-83ed-04b6497cb188" />
 
 ## Pourquoi ça compte
 
