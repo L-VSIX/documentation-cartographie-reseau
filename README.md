@@ -23,8 +23,8 @@ Sur une infrastructure hétérogène avec plusieurs hyperviseurs autonomes (pas 
 
 ## Repos liés
 
-- `conception-infrastructure-datacenter`
-- `opnsense-segmentation-vlan`
+- [`conception-infrastructure-datacenter`](https://github.com/L-VSIX/conception-infrastructure-datacenter)
+- [`opnsense-segmentation-vlan`](https://github.com/L-VSIX/opnsense-segmentation-vlan)
 
 ## Auteur
 
